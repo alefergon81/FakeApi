@@ -1,0 +1,20 @@
+{
+    "tenant": {
+        "usage": 230,
+        "limit": 1000
+    },
+    "organizations": [
+        {
+            "code": "bradesco",
+            "isActive": true,
+            "usage": 100,
+            "limit": 500
+        },
+        {
+            "code": "PAL",
+            "isActive": true,
+            "usage": 130,
+            "limit": 500
+        }
+    ]
+}
